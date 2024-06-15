@@ -1,1 +1,1 @@
-# Self_learn
+# Solving all type of Sql questions 
